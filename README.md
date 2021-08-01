@@ -1,13 +1,11 @@
 # API tests with Jest and SuperTest
 This project is an example of API tests using TypeScript, [Jest](https://jestjs.io/docs/en/getting-started) and [SuperTest](https://github.com/visionmedia/supertest).  
-We are using [FakeRestAPI.Web](https://fakerestapi.azurewebsites.net/swagger/ui/index#!/Books/) as a system.
 
 ## Features
 
 -   TypeScript
 -   Jest
 -   SuperTest
--   [Commit lint](https://github.com/conventional-changelog/commitlint) and [Commitizen](https://github.com/commitizen/cz-cli#making-your-repo-commitizen-friendly)
 -   ESlint
 -   Prettier
 -   Husky
